@@ -50,7 +50,7 @@ Where to discover further resources for UU research.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/UtrechtUniversity/awesome-UU/blob/main/CONTRIBUTING.md) first.
 
 ---
 
