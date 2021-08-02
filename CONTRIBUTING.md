@@ -12,4 +12,8 @@ It should include the following points:
 * It should include a license
 * It should include a readme with a project description
 
+Please send a pull request or create an issue for adding your projects. Pull requests are preferred.
+
+### Adding new categories
+
 If there is no fitting category for your project please add a pull request with further reasoning as to why a new category is necessary.
