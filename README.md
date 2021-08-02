@@ -28,6 +28,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions) - [ICIP 2019] Implementation of Saliency Tubes for 3D Convolutions in Pytoch and Keras to localise the focus spatio-temporal regions of 3D CNNs.
 - [rPPG](https://github.com/marnixnaber/rPPG) - remote heart rate detection / photoplethysmography software
 - [notebooks](https://github.com/puregome/notebooks) - Notebooks of the PuReGoMe Project of the Netherlands eScience Center and Utrecht University.
+- [GeoNewsMiner](https://github.com/lorellav/GeoNewsMiner) The GeoNewsMiner (GNM): An interactive spatial humanities tool to visualize geographical references in historical newspapers
 
 ## Research software
 
