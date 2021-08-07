@@ -37,6 +37,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [asreview](https://github.com/asreview/asreview) - Active learning for systematic reviews
 - [bain](https://github.com/cjvanlissa/bain) - Bayes Factors for Informative Hypotheses
 - [childdevdata](https://github.com/D-score/childdevdata) - Child Development Data
+- [mice](https://github.com/amices/mice) - Multivariate Imputation by Chained Equations
 - [parcels](https://github.com/OceanParcels/parcels) - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
 - [pcraster](https://github.com/pcraster/pcraster) - Environmental modeling software
 - [pdb-tools](https://github.com/haddocking/pdb-tools) - A dependency-free cross-platform swiss army knife for PDB files.
