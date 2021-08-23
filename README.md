@@ -58,8 +58,8 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 *Open teaching materials are guidelines, tutorials or any other educational material. Where to discover further resources relevant for UU research like books, podcasts, additional websites and newsletters.*
 
-- [Quantitative Methods and Statistics](https://github.com/hugoquene/QMS-EN) Textbook on Quantitative Methods and Statistics (English version, EN), available at <https://hugoquene.github.io/QMS-EN/>
-- [workshop-introduction-to-R-and-data](https://github.com/UtrechtUniversity/workshop-introduction-to-R-and-data) - Material for the workshop 'Introduction to R & data
+- [Textbook on Quantitative Methods and Statistics](https://github.com/hugoquene/QMS-EN) Textbook on Quantitative Methods and Statistics aimed at humanities researchers and students [(English version, EN)](https://hugoquene.github.io/QMS-EN/) [(Dutch version, NL)](https://hugoquene.github.io/KMS-NL/)
+- [workshop-introduction-to-R-and-data](https://github.com/UtrechtUniversity/workshop-introduction-to-R-and-data) - Material for the workshop 'Introduction to R & data' by [RDM Support](https://www.uu.nl/en/research/research-data-management)
 
 ## Collaboration Groups
 
