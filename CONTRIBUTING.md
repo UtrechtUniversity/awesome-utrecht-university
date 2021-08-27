@@ -11,6 +11,7 @@ It should include the following points:
 * It should be maintained by at least one UU researcher or employee
 * It should include a license
 * It should include a readme with a project description
+* It should be inspirational or useful to other researchers
 
 Please send a pull request or create an issue for adding your projects. Pull requests are preferred.
 
