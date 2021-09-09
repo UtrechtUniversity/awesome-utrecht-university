@@ -4,9 +4,21 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## About
+
 A curated list of awesome research code, software, manuals, and more on Git, developed by **Utrecht University** researchers, students, and employees. The list can be your starting point to find interesting UU projects, and get inpired and learn from other projects. Is your project also "awesome"? Add it to this list (see [Contributing](#contributing)).
 
+The initial collection of projects was made based on the collected repositories from the [SWORDS-UU](https://github.com/UtrechtUniversity/SWORDS-UU) project. Repositories were considered when they have
+
+- a license
+- 25 stars or fulfill 4/5 FAIR criteria.
+
+The purpose of this repository is to have a selection of projects that scored high on openness criteria and stars in order to showcase good examples of open practices. In the context of this, *awesome* refers to projects that showcase the [FAIR](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software) spirit. This is for example shown in repositories that have a license and a readme file with reuse instructions.
+
+In order to promote open science, Utrecht University has launched the Open Science Programme. To add focus to specific topics, there are four tracks within the Programme: Open access, FAIR data and software, Public engagement, Recognition and rewards. This repository was created by efforts of the track of FAIR data and software.
+
 - [Awesome Utrecht University](#awesome-utrecht-university)
+  - [About](#about)
   - [Research projects with code](#research-projects-with-code)
   - [Research software](#research-software)
   - [Research Data](#research-data)
@@ -74,8 +86,6 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/UtrechtUniversity/awesome-UU/blob/main/CONTRIBUTING.md) first. We are also looking for researchers that are interested in helping to maintain this list. Please reach out if you would like to assist!
 
 # Contact
-
-In order to promote open science, Utrecht University has launched the Open Science Programme. To add focus to specific topics, there are four tracks within the Programme: Open access, FAIR data and software, Public engagement, Recognition and rewards. This repository was created by efforts of the track of FAIR data and software.
 
 If you have any question about this opinionated list, do not hesitate to contact me [Keven Quach](mailto:k.quach@uu.nl?subject=[GitHub]%20Awesome-UU) or [Jonathan de Bruin](j.debruin1@uu.nl) via mail or open an issue on GitHub.
 
