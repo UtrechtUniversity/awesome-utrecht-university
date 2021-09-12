@@ -13,6 +13,7 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - run: cp README.md index1.md
       - run: pwd
+      - run: ls
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
