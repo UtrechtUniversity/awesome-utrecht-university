@@ -49,7 +49,7 @@ In order to promote open science, Utrecht University has launched the Open Scien
 - [asreview](https://github.com/asreview/asreview) - Active learning for systematic reviews
 - [bain](https://github.com/cjvanlissa/bain) - Bayes Factors for Informative Hypotheses
 - [mice](https://github.com/amices/mice) - Multivariate Imputation by Chained Equations
-- [OSMEnrich](https://github.com/sodascience/osmenrich) - Enrich sf data with geographic features from OpenStreetMaps.
+- [osmenrich](https://github.com/sodascience/osmenrich) - Enrich sf data with geographic features from OpenStreetMaps.
 - [parcels](https://github.com/OceanParcels/parcels) - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
 - [pcraster](https://github.com/pcraster/pcraster) - Environmental modeling software
 - [pdb-tools](https://github.com/haddocking/pdb-tools) - A dependency-free cross-platform swiss army knife for PDB files.
