@@ -21,20 +21,20 @@ The initial collection of projects was made based on the collected repositories 
 
 
 - [Awesome Utrecht University](#awesome-utrecht-university)
-  - [Research projects with code](#research-projects-with-code)
+  - [Research code](#research-code)
   - [Research software](#research-software)
-  - [Research Data](#research-data)
+  - [Research data](#research-data)
   - [Research project management](#research-project-management)
   - [Education and workshops](#education-and-workshops)
-  - [Collaboration Groups](#collaboration-groups)
+  - [Collaboration groups](#collaboration-groups)
 - [Add project to this list](#add-project-to-this-list)
 - [Contact](#contact)
 
 ---
 
-## Research projects with code
+## Research code
 
-*Research projects with supplementing code or data stored on online Git repositories.*
+*Research projects with supplementing code stored on online Git repositories.*
 
 - [ContrastiveExplanation](https://github.com/MarcelRobeer/ContrastiveExplanation) - Contrastive Explanation (Foil Trees), developed at TNO/Utrecht University
 - [GeoNewsMiner](https://github.com/lorellav/GeoNewsMiner) The GeoNewsMiner (GNM): An interactive spatial humanities tool to visualize geographical references in historical newspapers
@@ -57,7 +57,7 @@ The initial collection of projects was made based on the collected repositories 
 - [pdb-tools](https://github.com/haddocking/pdb-tools) - A dependency-free cross-platform swiss army knife for PDB files.
 - [recordlinkage](https://github.com/J535D165/recordlinkage) - A toolkit for record linkage and duplicate detection in Python
 
-## Research Data
+## Research data
 
 *Research data stored in git repositories.*
 
@@ -77,7 +77,7 @@ The initial collection of projects was made based on the collected repositories 
 - [Textbook on Quantitative Methods and Statistics](https://github.com/hugoquene/QMS-EN) Textbook on Quantitative Methods and Statistics aimed at humanities researchers and students [(English version, EN)](https://hugoquene.github.io/QMS-EN/) [(Dutch version, NL)](https://hugoquene.github.io/KMS-NL/)
 - [workshop-introduction-to-R-and-data](https://github.com/UtrechtUniversity/workshop-introduction-to-R-and-data) - Material for the workshop 'Introduction to R & data' by [RDM Support](https://www.uu.nl/en/research/research-data-management)
 
-## Collaboration Groups
+## Collaboration groups
 
 *Collaboration Groups are organizations with many involved parties.*
 
