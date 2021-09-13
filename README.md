@@ -17,6 +17,9 @@ The purpose of this repository is to have a selection of projects that scored hi
 
 In order to promote open science, Utrecht University has launched the Open Science Programme. To add focus to specific topics, there are four tracks within the Programme: Open access, FAIR data and software, Public engagement, Recognition and rewards. This repository was created by efforts of the track of FAIR data and software.
 
+❣️ We are looking for Utrecht University researchers that are interested in helping to maintain this list. Please reach out if you would like to assist (see [Contact](#contact))!
+
+
 - [Awesome Utrecht University](#awesome-utrecht-university)
   - [About](#about)
   - [Research projects with code](#research-projects-with-code)
@@ -25,7 +28,7 @@ In order to promote open science, Utrecht University has launched the Open Scien
   - [Research project management](#research-project-management)
   - [Education and workshops](#education-and-workshops)
   - [Collaboration Groups](#collaboration-groups)
-- [Contributing](#contributing)
+- [Add project to this list](#add-project-to-this-list)
 - [Contact](#contact)
 
 ---
@@ -82,9 +85,9 @@ In order to promote open science, Utrecht University has launched the Open Scien
 - [CLARIAH](https://github.com/CLARIAH) - CLARIAH offers humanities scholars a Common Lab providing access to large collections of digital resources and innovative tools for research
 - [stan](https://github.com/stan-dev) - Stan is a state-of-the-art platform for statistical modeling and high-performance statistical computation. Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business.
 
-# Contributing
+# Add project to this list
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/UtrechtUniversity/awesome-UU/blob/main/CONTRIBUTING.md) first. We are also looking for researchers that are interested in helping to maintain this list. Please reach out if you would like to assist!
+Do you know about a project that should be in the Awesome Utrecht University list? This could be your own project or a project of one of your colleagues. We would love to hear about that project! The [contribution guidelines](https://github.com/UtrechtUniversity/awesome-UU/blob/main/CONTRIBUTING.md) help you to propose a new project to the list.
 
 # Contact
 
