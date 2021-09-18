@@ -1,20 +1,26 @@
-name: Create mkdocs website
+name: GH Pages
 on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
-      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
-      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
-      - name: Check out repository code
+      - name: Checkout
         uses: actions/checkout@v2
-      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
-      - run: cp README.md index1.md
-      - run: pwd
-      - run: ls
-      - name: List files in the repository
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v1
+        with:
+          python-version: '3.8'
+      - name: Install Python dependencies
         run: |
-          ls ${{ github.workspace }}
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+          pip install -r requirements.txt
+      - name: Build
+        run: |
+          sed 's/docs\/img\//img\//g' README.md > docs/index.md
+          mkdocs build
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@3.5.9
+        with:
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: site
