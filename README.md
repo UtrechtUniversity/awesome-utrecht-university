@@ -1,4 +1,4 @@
-![banner.jpg](images/banner.jpg)
+![banner.jpg](docs/images/banner.jpg)
 
 # Awesome Utrecht University
 
