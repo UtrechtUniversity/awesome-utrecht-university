@@ -19,7 +19,7 @@ jobs:
           sed 's/docs\/img\//img\//g' README.md > docs/index.md
           mkdocs build
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@3.5.9
+        uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
