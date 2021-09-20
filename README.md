@@ -12,13 +12,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 > 
 > [FAIR Data and Software team](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software)
 
-The initial collection of projects was made based on the collected repositories from the [SWORDS-UU](https://github.com/UtrechtUniversity/SWORDS-UU) project. Repositories were considered when they have
-
-- a license
-- 25 stars or fulfill 4/5 FAIR criteria.
-
 ❣️ We are looking for Utrecht University researchers that are interested in helping to maintain this list. Please reach out if you would like to assist (see [Contact](#contact))!
-
 
 - [Awesome Utrecht University](#awesome-utrecht-university)
   - [Research code](#research-code)
@@ -28,7 +22,9 @@ The initial collection of projects was made based on the collected repositories 
   - [Education and workshops](#education-and-workshops)
   - [Collaboration groups](#collaboration-groups)
 - [Add project to this list](#add-project-to-this-list)
-- [Contact](#contact)
+- [Background](#background)
+  - [Contact](#contact)
+  - [Initial collection](#initial-collection)
 
 ---
 
@@ -88,10 +84,21 @@ The initial collection of projects was made based on the collected repositories 
 
 Do you know about a project that should be in the Awesome Utrecht University list? This could be your own project or a project of one of your colleagues. We would love to hear about that project! The [contribution guidelines](https://github.com/UtrechtUniversity/awesome-UU/blob/main/CONTRIBUTING.md) help you to propose a new project to the list.
 
-# Contact
+# Background
+
+## Contact
 
 This awesome list was created by efforts of the [FAIR Data and Software team](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software) of Utrecht University. If you have any question or remark about this list, do not hesitate to contact [Keven Quach](mailto:k.quach@uu.nl?subject=[GitHub]%20Awesome-UU) and [Jonathan de Bruin](j.debruin1@uu.nl) via mail or open an issue on GitHub.
 
 Are you a Utrecht University researcher looking for support on making your research code and data open and FAIR? Or do you want to brainstorm about these topics? Feel free to [contact RDM Support](https://www.uu.nl/en/research/research-data-management/contact-us).
 
 ![Utrecht University Open Science](https://www.uu.nl/sites/default/files/styles/original_image/public/Utrecht-University-towards-open-science.jpg)
+
+## Initial collection
+
+<!-- The initial collection of projects was made based on the collected repositories from the [SWORDS-UU](https://github.com/UtrechtUniversity/SWORDS-UU) -->
+The initial collection of projects was made based on the collected repositories from the SWORDS-UU
+ project. Repositories were considered when they have
+
+- a license
+- 25 stars or fulfill 4/5 FAIR criteria.
