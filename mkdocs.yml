@@ -8,3 +8,4 @@ theme:
   name: material
   palette:
     primary: grey
+    accent: amber
