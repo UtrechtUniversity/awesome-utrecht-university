@@ -9,3 +9,5 @@ theme:
   palette:
     primary: grey
     accent: amber
+extra_css:
+  - stylesheets/extra.css
