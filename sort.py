@@ -16,7 +16,7 @@
 
 def sort_blocks():
     # First, we load the current README into memory
-    with open('README.md', 'r') as read_me_file:
+    with open('README.md', 'r', encoding="latin-1") as read_me_file:
         read_me = read_me_file.read()
 
     # Separating the 'table of contents' from the contents (blocks)
@@ -39,15 +39,14 @@ def sort_blocks():
     # Replacing the non-sorted libraries by the sorted ones and gathering all at the final_README file
     blocks[0] = inner_blocks
     final_README = table_of_contents + '---\n\n' + ''.join(blocks).strip() + '\n'
-    print(final_README)
 
-    with open('README.md', 'w+') as sorted_file:
+    with open('README.md', 'w+', encoding="latin-1") as sorted_file:
         sorted_file.write(final_README)
 
 
 def main():
     # First, we load the current README into memory as an array of lines
-    with open('README.md', 'r') as read_me_file:
+    with open('README.md', 'r', encoding="latin-1") as read_me_file:
         read_me = read_me_file.readlines()
 
     # Then we cluster the lines together as blocks
@@ -81,7 +80,7 @@ def main():
     "- [Contact](#contact)",
     "- [Contributing](#contributing)"    ]
     # print(not any(substring in ''.join(blocks[20]) for substring in ignore_sort_list))
-    with open('README.md', 'w+') as sorted_file:
+    with open('README.md', 'w+', encoding="latin-1") as sorted_file:
         # Then all of the blocks are sorted individually
         blocks = [
             ''.join(sorted(block, key=str.lower)) if not any(toc_block in ''.join(block) for toc_block in ignore_sort_list) else ''.join(block) for block in blocks # do not sort ToC
