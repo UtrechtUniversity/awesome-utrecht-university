@@ -13,7 +13,7 @@ It should include the following points:
 * It should include a readme with a project description
 * It should be inspirational or useful to other researchers
 
-Please send a pull request or create an issue for adding your projects. Pull requests are preferred.
+Please send a pull request or [create an issue](https://github.com/UtrechtUniversity/awesome-utrecht-university/issues/new/choose) for adding your projects. Pull requests are preferred.
 
 ### Adding new categories
 
