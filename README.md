@@ -15,20 +15,22 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 ❣️ We are looking for Utrecht University researchers that are interested in helping to maintain this list. Please reach out if you would like to assist (see [Contact](#contact))!
 
 - [Awesome Utrecht University](#awesome-utrecht-university)
-  - [Research code](#research-code)
-  - [Research software](#research-software)
-  - [Research data](#research-data)
-  - [Research project management](#research-project-management)
-  - [Education and workshops](#education-and-workshops)
-  - [Collaboration groups](#collaboration-groups)
-- [Add project to this list](#add-project-to-this-list)
-- [Background](#background)
+  - [Projects](#projects)
+    - [Research code](#research-code)
+    - [Research software](#research-software)
+    - [Research data](#research-data)
+    - [Research project management](#research-project-management)
+    - [Education and workshops](#education-and-workshops)
+    - [Collaboration groups](#collaboration-groups)
+  - [Add project to this list](#add-project-to-this-list)
+  - [Background](#background)
   - [Contact](#contact)
-  - [Initial collection](#initial-collection)
 
 ---
 
-## Research code
+## Projects
+
+### Research code
 
 *Research projects with supplementing code stored on online Git repositories.*
 
@@ -40,7 +42,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [SoftPool](https://github.com/alexandrosstergiou/SoftPool) - Code for approximated exponential maximum pooling. 
 - [Squeeze-and-Recursion-Temporal-Gates](https://github.com/alexandrosstergiou/Squeeze-and-Recursion-Temporal-Gates) - Code for : [Pattern Recognit. Lett. 2020] "Learn to cycle: Time-consistent feature discovery for action recognition" and [arXiv] "Right on Time: Multi-Temporal Convolutions for Human Action Recognition in Videos".
 
-## Research software
+### Research software
 
 *Software developed by researchers and employees of Utrecht University. The software in this list is installable and can be used in new or existing research projects or courses.*
 
@@ -53,38 +55,41 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [pdb-tools](https://github.com/haddocking/pdb-tools) - A dependency-free cross-platform swiss army knife for PDB files.
 - [recordlinkage](https://github.com/J535D165/recordlinkage) - A toolkit for record linkage and duplicate detection in Python
 
-## Research data
+### Research data
 
 *Research data stored in git repositories.*
 
 - [childdevdata](https://github.com/D-score/childdevdata) - R package with *Child Development Data* from ten studies, containing 1,116,061 assessments made on 10,831 unique children during 28,465 visits, covering 21 different instruments.
 - [CoronaWatchNL](https://github.com/J535D165/CoronaWatchNL) - Numbers concerning COVID-19 disease cases in The Netherlands by RIVM, LCPS, NICE, ECML, and Rijksoverheid.
 
-## Research project management
+### Research project management
 
 *Tools for research project management, data management, and software management.*
 
 - [worcs](https://github.com/cjvanlissa/worcs) - Rstudio project template and convenience functions for the Workflow for Open Reproducible Code in Science (WORCS)
 
-## Education and workshops
+### Education and workshops
 
 *Open teaching materials are guidelines, tutorials or any other educational material. Where to discover further resources relevant for UU research like books, podcasts, additional websites and newsletters.*
 
 - [Textbook on Quantitative Methods and Statistics](https://github.com/hugoquene/QMS-EN) Textbook on Quantitative Methods and Statistics aimed at humanities researchers and students [(English version, EN)](https://hugoquene.github.io/QMS-EN/) [(Dutch version, NL)](https://hugoquene.github.io/KMS-NL/)
 - [workshop-introduction-to-R-and-data](https://github.com/UtrechtUniversity/workshop-introduction-to-R-and-data) - Material for the workshop 'Introduction to R & data' by [RDM Support](https://www.uu.nl/en/research/research-data-management)
 
-## Collaboration groups
+### Collaboration groups
 
 *Collaboration Groups are organizations with many involved parties.*
 
 - [CLARIAH](https://github.com/CLARIAH) - CLARIAH offers humanities scholars a Common Lab providing access to large collections of digital resources and innovative tools for research
 - [stan](https://github.com/stan-dev) - Stan is a state-of-the-art platform for statistical modeling and high-performance statistical computation. Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business.
 
-# Add project to this list
+## Add project to this list
 
 Do you know about a project that should be in the Awesome Utrecht University list? This could be your own project or a project of one of your colleagues. We would love to hear about that project! The [contribution guidelines](https://github.com/UtrechtUniversity/awesome-UU/blob/main/CONTRIBUTING.md) help you to propose a new project to the list.
 
-# Background
+## Background
+
+The initial collection of projects was made based on the collected repositories from the SWORDS-UU
+ project. Repositories were considered when they have a license and 25 stars or fulfill 4/5 FAIR criteria.
 
 ## Contact
 
@@ -93,12 +98,3 @@ This awesome list was created by efforts of the [FAIR Data and Software team](ht
 Are you a Utrecht University researcher looking for support on making your research code and data open and FAIR? Or do you want to brainstorm about these topics? Feel free to [contact RDM Support](https://www.uu.nl/en/research/research-data-management/contact-us).
 
 ![Utrecht University Open Science](https://www.uu.nl/sites/default/files/styles/original_image/public/Utrecht-University-towards-open-science.jpg)
-
-## Initial collection
-
-<!-- The initial collection of projects was made based on the collected repositories from the [SWORDS-UU](https://github.com/UtrechtUniversity/SWORDS-UU) -->
-The initial collection of projects was made based on the collected repositories from the SWORDS-UU
- project. Repositories were considered when they have
-
-- a license
-- 25 stars or fulfill 4/5 FAIR criteria.
