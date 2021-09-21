@@ -87,9 +87,15 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 Do you know about a project that should be in the Awesome Utrecht University list? This could be your own project or a project of one of your colleagues. We would love to hear about that project! The [contribution guidelines](https://github.com/UtrechtUniversity/awesome-UU/blob/main/CONTRIBUTING.md) help you to propose a new project to the list.
 
 ## Background
+ 
+### What is an Awesome list?
+
+"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see https://github.com/sindresorhus/awesome). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) for more information about awesome lists. 
+
+### Initial project collection
 
 The initial collection of projects was made based on the collected repositories from the SWORDS-UU
- project. Repositories were considered when they have a license and 25 stars or fulfill 4/5 FAIR criteria.
+project (more information follows soon). Repositories were considered when they have a license and 25 stars or fulfill 4/5 FAIR criteria.
 
 ## Contact
 
