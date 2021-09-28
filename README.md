@@ -54,6 +54,8 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [pcraster](https://github.com/pcraster/pcraster) - Environmental modeling software
 - [pdb-tools](https://github.com/haddocking/pdb-tools) - A dependency-free cross-platform swiss army knife for PDB files.
 - [recordlinkage](https://github.com/J535D165/recordlinkage) - A toolkit for record linkage and duplicate detection in Python
+- [text_explainability](https://git.science.uu.nl/m.j.robeer/text_explainability) - A generic explainability architecture for explaining text machine learning models.
+- [text_sensitivity](https://git.science.uu.nl/m.j.robeer/text_sensitivity) - Extension of text_explainability for sensitivity testing (robustness, fairness).
 
 ### Research data
 
