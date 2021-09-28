@@ -3,7 +3,9 @@ name: Suggest an addition to this list
 about: Use this template to add your suggestion. This list can only grow with your effort. Thanks for contributing!
 title: "[ADD] Please enter your project title"
 labels: ''
-assignees: kequach
+assignees: 
+  - kequach
+  - J535D165
 
 ---
 
