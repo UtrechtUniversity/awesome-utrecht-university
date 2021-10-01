@@ -24,6 +24,8 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
     - [Collaboration groups](#collaboration-groups)
   - [Add project to this list](#add-project-to-this-list)
   - [Background](#background)
+    - [What is an Awesome list?](#what-is-an-awesome-list)
+    - [Initial project collection](#initial-project-collection)
   - [Contact](#contact)
 
 ---
@@ -90,7 +92,7 @@ Do you know about a project that should be in the Awesome Utrecht University lis
  
 ### What is an Awesome list?
 
-"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see https://github.com/sindresorhus/awesome). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) for more information about awesome lists. 
+"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see https://github.com/sindresorhus/awesome). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) for more information about awesome lists. We encourage other universities to also implement awesome lists for their research. If you need help getting started please don't hesitate to reach out to us.
 
 ### Initial project collection
 
