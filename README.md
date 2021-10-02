@@ -39,9 +39,9 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [ContrastiveExplanation](https://github.com/MarcelRobeer/ContrastiveExplanation) - Contrastive Explanation (Foil Trees), developed at TNO/Utrecht University
 - [GeoNewsMiner](https://github.com/lorellav/GeoNewsMiner) The GeoNewsMiner (GNM): An interactive spatial humanities tool to visualize geographical references in historical newspapers
 - [PCR-GLOBWB_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) - PCR-GLOBWB (PCRaster Global Water Balance) is a large-scale hydrological model intended for global to regional studies and developed at the Department of Physical Geography.
+- [SoftPool](https://github.com/alexandrosstergiou/SoftPool) - Code for approximated exponential maximum pooling.
 - [PuReGoMe](https://github.com/puregome/notebooks) - Notebooks of the PuReGoMe Project of the Netherlands eScience Center and Utrecht University.
 - [Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions) - Implementation of Saliency Tubes for 3D Convolutions in Pytoch and Keras to localise the focus spatio-temporal regions of 3D CNNs.
-- [SoftPool](https://github.com/alexandrosstergiou/SoftPool) - Code for approximated exponential maximum pooling.
 - [Squeeze-and-Recursion-Temporal-Gates](https://github.com/alexandrosstergiou/Squeeze-and-Recursion-Temporal-Gates) - Code for : [Pattern Recognit. Lett. 2020] "Learn to cycle: Time-consistent feature discovery for action recognition" and [arXiv] "Right on Time: Multi-Temporal Convolutions for Human Action Recognition in Videos".
 
 ### Research software
