@@ -14,6 +14,9 @@ jobs:
       - name: Install Python dependencies
         run: |
           pip install -r requirements.txt
+      - name: sort readme # run the run.py to get the latest data
+        run: |
+          python sort.py
       - name: Build
         run: |
           sed 's/docs\/img\//img\//g' README.md > docs/index.md

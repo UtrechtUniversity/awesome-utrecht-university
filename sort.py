@@ -31,10 +31,10 @@ def sort_blocks():
 
     # Sorting the libraries
     # inner_blocks = sorted(blocks[0].split('##')) ## this sorts categories as well which we do not want
-    inner_blocks = blocks[0].split('##')
+    inner_blocks = blocks[0].split('###')
     for i in range(1, len(inner_blocks)):
         if inner_blocks[i][0] != '#':
-            inner_blocks[i] = '##' + inner_blocks[i]
+            inner_blocks[i] = '###' + inner_blocks[i]
     inner_blocks = ''.join(inner_blocks)
     # Replacing the non-sorted libraries by the sorted ones and gathering all at the final_README file
     blocks[0] = inner_blocks
@@ -70,15 +70,18 @@ def main():
             last_indent = None
 
     ignore_sort_list = ["- [Awesome Utrecht University](#awesome-utrecht-university)",
-    "- [About](#about)",
-    "- [Research projects with code](#research-projects-with-code)",
+  "- [Projects](#projects)",
+    "- [Research code](#research-code)",
     "- [Research software](#research-software)",
-    "- [Research Data](#research-data)",
+    "- [Research data](#research-data)",
     "- [Research project management](#research-project-management)",
     "- [Education and workshops](#education-and-workshops)",
-    "- [Collaboration Groups](#collaboration-groups)",
-    "- [Contact](#contact)",
-    "- [Contributing](#contributing)"    ]
+    "- [Collaboration groups](#collaboration-groups)",
+  "- [Add project to this list](#add-project-to-this-list)",
+  "- [Background](#background)",
+    "- [What is an Awesome list?](#what-is-an-awesome-list)",
+    "- [Initial project collection](#initial-project-collection)",
+  "- [Contact](#contact)"]
     # print(not any(substring in ''.join(blocks[20]) for substring in ignore_sort_list))
     with open('README.md', 'w+', encoding="latin-1") as sorted_file:
         # Then all of the blocks are sorted individually
