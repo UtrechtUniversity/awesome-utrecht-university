@@ -70,8 +70,8 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 *Tools for research project management, data management, software management, and lab tools.*
 
-- [worcs](https://github.com/cjvanlissa/worcs) - Rstudio project template and convenience functions for the Workflow for Open Reproducible Code in Science (WORCS)
 - [labphew](https://github.com/SanliFaez/labphew) - a minimalist functioning code module and folder structure, built to teach and exercise with computer-controlled measurements using Python.
+- [worcs](https://github.com/cjvanlissa/worcs) - Rstudio project template and convenience functions for the Workflow for Open Reproducible Code in Science (WORCS)
 
 ### Education and workshops
 
