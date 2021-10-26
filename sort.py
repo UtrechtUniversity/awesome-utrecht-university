@@ -81,6 +81,7 @@ def main():
   "- [Background](#background)",
     "- [What is an Awesome list?](#what-is-an-awesome-list)",
     "- [Initial project collection](#initial-project-collection)",
+    "- [Implementing Awesome lists for your university](#implementing-awesome-lists-for-your-university)",
   "- [Contact](#contact)"]
     # print(not any(substring in ''.join(blocks[20]) for substring in ignore_sort_list))
     with open('README.md', 'w+', encoding="latin-1") as sorted_file:

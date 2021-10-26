@@ -26,6 +26,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
   - [Background](#background)
     - [What is an Awesome list?](#what-is-an-awesome-list)
     - [Initial project collection](#initial-project-collection)
+    - [Implementing Awesome lists for your university](#implementing-awesome-lists-for-your-university)
   - [Contact](#contact)
 
 ---
@@ -95,12 +96,16 @@ Do you know about a project that should be in the Awesome Utrecht University lis
  
 ### What is an Awesome list?
 
-"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see https://github.com/sindresorhus/awesome). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) for more information about awesome lists. We encourage other universities to also implement awesome lists for their research. If you need help getting started please don't hesitate to reach out to us.
+"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see https://github.com/sindresorhus/awesome). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) for more information about awesome lists. 
 
 ### Initial project collection
 
 The initial collection of projects was made based on the collected repositories from the SWORDS-UU
 project (more information follows soon). Repositories were considered when they have a license and 25 stars or fulfill 4/5 FAIR criteria.
+
+### Implementing Awesome lists for your university
+
+We encourage other universities to also implement awesome lists for their research. You can fork this repository as a starting point. Having such a list is a useful resource to showcase good projects that have been conducted or are still ongoing and helps promoting the open science approach. If you need help getting started please don't hesitate to reach out to us. We will gladly assist you.
 
 ## Contact
 
