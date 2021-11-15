@@ -43,6 +43,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [PuReGoMe](https://github.com/puregome/notebooks) - Notebooks of the PuReGoMe Project of the Netherlands eScience Center and Utrecht University.
 - [Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions) - Implementation of Saliency Tubes for 3D Convolutions in Pytoch and Keras to localise the focus spatio-temporal regions of 3D CNNs.
 - [SoftPool](https://github.com/alexandrosstergiou/SoftPool) - Code for approximated exponential maximum pooling.
+- [stdsim](https://github.com/japhir/stdsim/) - R package for Simulating Clumped Isotope standard statistics, associated [stdstats](https://github.com/japhir/stdstats) code that accompanies the paper:Kocken, I. J., Müller, I. A., & Ziegler, M. (2019). Optimizing the use of carbonate standards to minimize uncertainties in clumped isotope data. Geochemistry, Geophysics, Geosystems, 20, 5565– 5577. https://doi.org/10.1029/2019GC008545 
 - [Squeeze-and-Recursion-Temporal-Gates](https://github.com/alexandrosstergiou/Squeeze-and-Recursion-Temporal-Gates) - Code for : [Pattern Recognit. Lett. 2020] "Learn to cycle: Time-consistent feature discovery for action recognition" and [arXiv] "Right on Time: Multi-Temporal Convolutions for Human Action Recognition in Videos".
 
 ### Research software
