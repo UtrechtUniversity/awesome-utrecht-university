@@ -37,11 +37,14 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 *Research projects with supplementing code stored on online Git repositories.*
 
+- [Aragonite_clumped](https://github.com/nielsjdewinter/Aragonite_clumped) - R code for processing and plotting of clumped isotope data from aragonite samples in "Temperature dependence of clumped isotopes (∆47) in aragonite"
 - [ContrastiveExplanation](https://github.com/MarcelRobeer/ContrastiveExplanation) - Contrastive Explanation (Foil Trees), developed at TNO/Utrecht University
+- [DA_model](https://github.com/nielsjdewinter/DA_model) - R code for simulating diffusion-advection models for leaching of trace elements into tooth enamel during burial and diagenesis of archeological and paleontological specimens in "High-resolution trace element distributions and models of trace element diffusion in enamel of Late Neolithic/Early Chalcolithic human molars from the Rioja Alavesa region (north-central Spain) help to separate biogenic from diagenetic trends"
 - [GeoNewsMiner](https://github.com/lorellav/GeoNewsMiner) The GeoNewsMiner (GNM): An interactive spatial humanities tool to visualize geographical references in historical newspapers
 - [PCR-GLOBWB_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) - PCR-GLOBWB (PCRaster Global Water Balance) is a large-scale hydrological model intended for global to regional studies and developed at the Department of Physical Geography.
 - [PuReGoMe](https://github.com/puregome/notebooks) - Notebooks of the PuReGoMe Project of the Netherlands eScience Center and Utrecht University.
 - [Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions) - Implementation of Saliency Tubes for 3D Convolutions in Pytoch and Keras to localise the focus spatio-temporal regions of 3D CNNs.
+- [seasonalclumped](https://github.com/nielsjdewinter/seasonalclumped) - R package for generating virtual stable isotope data to model sampling strategies for seasonality reconstructions in "Optimizing sampling strategies in high-resolution paleoclimate records"
 - [SoftPool](https://github.com/alexandrosstergiou/SoftPool) - Code for approximated exponential maximum pooling.
 - [Squeeze-and-Recursion-Temporal-Gates](https://github.com/alexandrosstergiou/Squeeze-and-Recursion-Temporal-Gates) - Code for : [Pattern Recognit. Lett. 2020] "Learn to cycle: Time-consistent feature discovery for action recognition" and [arXiv] "Right on Time: Multi-Temporal Convolutions for Human Action Recognition in Videos".
 - [stdstats](https://github.com/japhir/stdstats) - Simulation and plotting code for "Optimizing the use of carbonate standards to minimize uncertainties in clumped isotope data"
@@ -58,6 +61,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [pcraster](https://github.com/pcraster/pcraster) - Environmental modeling software
 - [pdb-tools](https://github.com/haddocking/pdb-tools) - A dependency-free cross-platform swiss army knife for PDB files.
 - [recordlinkage](https://github.com/J535D165/recordlinkage) - A toolkit for record linkage and duplicate detection in Python
+- [ShellChron](https://github.com/nielsjdewinter/ShellChron) - R package for constructing age models based on stable oxygen isotope records from accretionary carbonate archives
 - [text_explainability](https://git.science.uu.nl/m.j.robeer/text_explainability) - A generic explainability architecture for explaining text machine learning models.
 - [text_sensitivity](https://git.science.uu.nl/m.j.robeer/text_sensitivity) - Extension of text_explainability for sensitivity testing (robustness, fairness).
 
