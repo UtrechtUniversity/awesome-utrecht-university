@@ -55,7 +55,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 - [asreview](https://github.com/asreview/asreview) - Active learning for systematic reviews
 - [bain](https://github.com/cjvanlissa/bain) - Bayes Factors for Informative Hypotheses
-- [mice](https://github.com/amices/mice) - Multivariate Imputation by Chained Equations
+- [mice](https://github.com/amices/mice) - Multivariate Imputation by Chained Equations (+ [ggmice](https://github.com/amices/ggmice) for visualizations)
 - [osmenrich](https://github.com/sodascience/osmenrich) - Enrich sf data with geographic features from OpenStreetMaps.
 - [parcels](https://github.com/OceanParcels/parcels) - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
 - [pcraster](https://github.com/pcraster/pcraster) - Environmental modeling software
