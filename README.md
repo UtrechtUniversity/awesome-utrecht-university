@@ -117,7 +117,13 @@ We encourage other universities to also implement awesome lists for their resear
 
 ## Contact
 
-This awesome list was created by efforts of the [FAIR Data and Software team](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software) of Utrecht University. If you have any question or remark about this list, do not hesitate to contact [Keven Quach](mailto:k.quach@uu.nl?subject=[GitHub]%20Awesome-UU) and [Jonathan de Bruin](mailto:j.debruin1@uu.nl) via mail or open an issue on GitHub.
+This awesome list was created by efforts of the [FAIR Data and Software team](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software) of Utrecht University. If you have any question or remark about this list, do not hesitate to contact any of the **current maintainers** via mail:
+
+- [Keven Quach](mailto:k.quach@uu.nl?subject=[GitHub]%20Awesome-UU)
+- [Jonathan de Bruin](mailto:j.debruin1@uu.nl?subject=[GitHub]%20Awesome-UU)
+- [Jelle Treep](mailto:h.j.treep@uu.nl?subject=[GitHub]%20Awesome-UU)
+
+ or open an issue on GitHub.
 
 Are you a Utrecht University researcher looking for support on making your research code and data open and FAIR? Or do you want to brainstorm about these topics? Feel free to [contact RDM Support](https://www.uu.nl/en/research/research-data-management/contact-us).
 
