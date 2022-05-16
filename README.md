@@ -57,6 +57,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [bain](https://github.com/cjvanlissa/bain) - Bayes Factors for Informative Hypotheses
 - [mice](https://github.com/amices/mice) - Multivariate Imputation by Chained Equations 
    * [ggmice](https://github.com/amices/ggmice) - Visualize incomplete and imputed data with the R package `ggmice`
+- [oceanexplorer](https://github.com/UtrechtUniversity/oceanexplorer) - An R interface to the [NOAA World Ocean Atlas](https://www.ncei.noaa.gov/products/world-ocean-atlas)
 - [osmenrich](https://github.com/sodascience/osmenrich) - Enrich sf data with geographic features from OpenStreetMaps.
 - [parcels](https://github.com/OceanParcels/parcels) - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
 - [pcraster](https://github.com/pcraster/pcraster) - Environmental modeling software
