@@ -7,9 +7,9 @@
 A curated list of awesome research code, software, manuals, and more on Git, developed by [**Utrecht University**](https://uu.nl) researchers, students, and employees. The list can be your starting point to find interesting UU projects, and get inpired and learn from other projects. Is your project also "awesome"? Add it to this list (see [Contributing](#contributing)).
 
 > "The purpose of this list is to have a collection of projects using [Git](https://git-scm.com/) version control, that score high on openness, reusability, and transparency in order to showcase good examples of open practices. In the context of this, *awesome* refers to projects that showcase the [FAIR (findability, accessibility, interoperability, and reusability)](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software) and Open Science spirit. This is for example shown in repositories that have a license that permits reuse and a README file with clear documentation.
-> 
+>
 > In order to promote open science, Utrecht University has introduced the [Open Science Programme](https://www.uu.nl/en/research/open-science). Beside topics like *Open access*, *Public engagement*, and *Recognition and rewards*, there is a strong focus on *FAIR Data and Software*. This awesome list was created by efforts of the track of *FAIR Data and Software* to help researchers to find good examples. We believe that learning by example is very useful in the field of Open Science and FAIR Data and Software."
-> 
+>
 > [FAIR Data and Software team](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software)
 
 ❣️ We are looking for Utrecht University researchers that are interested in helping to maintain this list. Please reach out if you would like to assist (see [Contact](#contact))!
@@ -33,6 +33,8 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 ## Projects
 
+<!-- START PROJECTS -->
+
 ### Research code
 
 *Research projects with supplementing code stored on online Git repositories.*
@@ -55,7 +57,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 - [asreview](https://github.com/asreview/asreview) - Active learning for systematic reviews
 - [bain](https://github.com/cjvanlissa/bain) - Bayes Factors for Informative Hypotheses
-- [mice](https://github.com/amices/mice) - Multivariate Imputation by Chained Equations 
+- [mice](https://github.com/amices/mice) - Multivariate Imputation by Chained Equations
    * [ggmice](https://github.com/amices/ggmice) - Visualize incomplete and imputed data with the R package `ggmice`
 - [oceanexplorer](https://github.com/UtrechtUniversity/oceanexplorer) - An R interface to the [NOAA World Ocean Atlas](https://www.ncei.noaa.gov/products/world-ocean-atlas)
 - [osmenrich](https://github.com/sodascience/osmenrich) - Enrich sf data with geographic features from OpenStreetMaps.
@@ -96,15 +98,17 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [CLARIAH](https://github.com/CLARIAH) - CLARIAH offers humanities scholars a Common Lab providing access to large collections of digital resources and innovative tools for research
 - [stan](https://github.com/stan-dev) - Stan is a state-of-the-art platform for statistical modeling and high-performance statistical computation. Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business.
 
+<!-- END PROJECTS -->
+
 ## Add project to this list
 
 Do you know about a project that should be in the Awesome Utrecht University list? This could be your own project or a project of one of your colleagues. We would love to hear about that project! The [contribution guidelines](https://github.com/UtrechtUniversity/awesome-UU/blob/main/CONTRIBUTING.md) help you to propose a new project to the list.
 
 ## Background
- 
+
 ### What is an Awesome list?
 
-"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see https://github.com/sindresorhus/awesome). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) for more information about awesome lists. 
+"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see https://github.com/sindresorhus/awesome). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) for more information about awesome lists.
 
 ### Initial project collection
 
