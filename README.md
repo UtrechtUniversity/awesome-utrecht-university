@@ -4,7 +4,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome research code, software, manuals, and more on Git, developed by [**Utrecht University**](https://uu.nl) researchers, students, and employees. The list can be your starting point to find interesting UU projects, and get inpired and learn from other projects. Is your project also "awesome"? Add it to this list (see [Contributing](#contributing)).
+A curated list of awesome research code, software, manuals, and more on Git, developed by [**Utrecht University**](https://uu.nl) researchers, students, and employees. The list can be your starting point to find interesting UU projects, and get inpired and learn from other projects. Is your project also "awesome"? Add it to this list (see [Contributing](CONTRIBUTING.md)).
 
 > "The purpose of this list is to have a collection of projects using [Git](https://git-scm.com/) version control, that score high on openness, reusability, and transparency in order to showcase good examples of open practices. In the context of this, *awesome* refers to projects that showcase the [FAIR (findability, accessibility, interoperability, and reusability)](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software) and Open Science spirit. This is for example shown in repositories that have a license that permits reuse and a README file with clear documentation.
 >
