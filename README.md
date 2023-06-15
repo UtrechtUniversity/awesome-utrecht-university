@@ -88,6 +88,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 *Open teaching materials are guidelines, tutorials or any other educational material. Where to discover further resources relevant for UU research like books, podcasts, additional websites and newsletters.*
 
+- [ShinyEducation](https://github.com/UtrechtUniversity/ShinyEducation) The 'ShinyEducation' project at Utrecht University's Department of Methodology & Statistics uses interactive Shiny applications to explain statistical concepts. Applications cover topics like ANOVA, ANCOVA, t-tests, and correlation. This hands-on approach promotes immersive learning. Explore more [here](https://utrechtuniversity.github.io/ShinyEducation/).
 - [Textbook on Quantitative Methods and Statistics](https://github.com/hugoquene/QMS-EN) Textbook on Quantitative Methods and Statistics aimed at humanities researchers and students [(English version, EN)](https://hugoquene.github.io/QMS-EN/) [(Dutch version, NL)](https://hugoquene.github.io/KMS-NL/)
 - [workshop-introduction-to-R-and-data](https://github.com/UtrechtUniversity/workshop-introduction-to-R-and-data) - Material for the workshop 'Introduction to R & data' by [RDM Support](https://www.uu.nl/en/research/research-data-management)
 
