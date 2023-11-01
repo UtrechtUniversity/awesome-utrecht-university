@@ -65,6 +65,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [pcraster](https://github.com/pcraster/pcraster) - Environmental modeling software
 - [pdb-tools](https://github.com/haddocking/pdb-tools) - A dependency-free cross-platform swiss army knife for PDB files.
 - [recordlinkage](https://github.com/J535D165/recordlinkage) - A toolkit for record linkage and duplicate detection in Python
+- [Ricgraph](https://github.com/UtrechtUniversity/ricgraph) - With Ricgraph, you can create a graph from research information that is stored in various source systems. You can explore this graph and discover relations you were not aware of. For code, extensive documentation and videos follow the link.
 - [ShellChron](https://github.com/nielsjdewinter/ShellChron) - R package for constructing age models based on stable oxygen isotope records from accretionary carbonate archives
 - [Stitch](https://github.com/snijderlab/stitch) - A program for de novo sequencing of antibodies/proteins based on massspectrometry data.
 - [text_explainability](https://git.science.uu.nl/m.j.robeer/text_explainability) - A generic explainability architecture for explaining text machine learning models.
