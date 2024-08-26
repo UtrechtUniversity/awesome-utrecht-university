@@ -55,6 +55,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 *Software developed by researchers and employees of Utrecht University. The software in this list is installable and can be used in new or existing research projects or courses.*
 
+- [admtools](https://github.com/MindTheGap-ERC/admtools) - R package to transform data using age-depth models
 - [asreview](https://github.com/asreview/asreview) - Active learning for systematic reviews
 - [bain](https://github.com/cjvanlissa/bain) - Bayes Factors for Informative Hypotheses
 - [mice](https://github.com/amices/mice) - Multivariate Imputation by Chained Equations
@@ -68,6 +69,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [Ricgraph](https://github.com/UtrechtUniversity/ricgraph) - With Ricgraph, you can create a graph from research information that is stored in various source systems. You can explore this graph and discover relations you were not aware of. For code, extensive documentation and videos follow the link.
 - [ShellChron](https://github.com/nielsjdewinter/ShellChron) - R package for constructing age models based on stable oxygen isotope records from accretionary carbonate archives
 - [Stitch](https://github.com/snijderlab/stitch) - A program for de novo sequencing of antibodies/proteins based on massspectrometry data.
+- [StratPal](https://github.com/MindTheGap-ERC/StratPal/) - R package to build modeling pipelines for paleontology
 - [text_explainability](https://git.science.uu.nl/m.j.robeer/text_explainability) - A generic explainability architecture for explaining text machine learning models.
 - [text_sensitivity](https://git.science.uu.nl/m.j.robeer/text_sensitivity) - Extension of text_explainability for sensitivity testing (robustness, fairness).
 
