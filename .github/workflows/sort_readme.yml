@@ -1,0 +1,19 @@
+name: GH Pages
+on: [push]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v1
+        with:
+          python-version: '3.8'
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
+      - name: sort readme # run the run.py to get the latest data
+        run: |
+          python sort.py
