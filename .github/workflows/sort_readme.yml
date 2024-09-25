@@ -17,19 +17,17 @@ jobs:
       - name: sort readme # run the run.py to get the latest data
         run: |
           python sort.py
-      - name: Deploy main
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+          
+       - name: Commit files
+         run: |
+           git config --local user.email "github@uu.nl"
+           git config --local user.name "GitHub Utrecht University"
+           git add .
+           git commit -m "sort README"
+        continue-on-error: true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: main
-          FOLDER: .
-      - name: Build
-        run: |
-          sed 's/docs\/img\//img\//g' README.md > docs/index.md
-          mkdocs build
-      - name: Deploy pages
-        uses: JamesIves/github-pages-deploy-action@4.1.5
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: site
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+          
