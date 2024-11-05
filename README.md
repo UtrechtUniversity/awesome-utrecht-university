@@ -60,6 +60,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [bain](https://github.com/cjvanlissa/bain) - Bayes Factors for Informative Hypotheses
 - [iBridges](https://github.com/UtrechtUniversity/iBridges) - Python API and commandline interface to easily interact with Yoda and iRODS servers
 - [iBridges-GUI](https://github.com/chStaiger/iBridges-Gui) - A graphical user interface for iBridges
+- [LUE](https://github.com/computationalgeography/lue) - Modelling framework for simulating large geographical systems of agents and fields
 - [mice](https://github.com/amices/mice) - Multivariate Imputation by Chained Equations
    * [ggmice](https://github.com/amices/ggmice) - Visualize incomplete and imputed data with the R package `ggmice`
 - [oceanexplorer](https://github.com/UtrechtUniversity/oceanexplorer) - An R interface to the [NOAA World Ocean Atlas](https://www.ncei.noaa.gov/products/world-ocean-atlas)
