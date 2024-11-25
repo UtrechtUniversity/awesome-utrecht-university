@@ -66,7 +66,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [oceanexplorer](https://github.com/UtrechtUniversity/oceanexplorer) - An R interface to the [NOAA World Ocean Atlas](https://www.ncei.noaa.gov/products/world-ocean-atlas)
 - [osmenrich](https://github.com/sodascience/osmenrich) - Enrich sf data with geographic features from OpenStreetMaps.
 - [parcels](https://github.com/OceanParcels/parcels) - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
-- [pcraster](https://github.com/pcraster/pcraster) - Environmental modeling software
+- [PCRaster](https://github.com/pcraster/pcraster) - Environmental modeling software
 - [pdb-tools](https://github.com/haddocking/pdb-tools) - A dependency-free cross-platform swiss army knife for PDB files.
 - [recordlinkage](https://github.com/J535D165/recordlinkage) - A toolkit for record linkage and duplicate detection in Python
 - [Ricgraph](https://github.com/UtrechtUniversity/ricgraph) - With Ricgraph, you can create a graph from research information that is stored in various source systems. You can explore this graph and discover relations you were not aware of. For code, extensive documentation and videos follow the link.
