@@ -58,8 +58,8 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [admtools](https://github.com/MindTheGap-ERC/admtools) - R package to transform data using age-depth models
 - [asreview](https://github.com/asreview/asreview) - Active learning for systematic reviews
 - [bain](https://github.com/cjvanlissa/bain) - Bayes Factors for Informative Hypotheses
-- [iBridges](https://github.com/UtrechtUniversity/iBridges) - Python API and commandline interface to easily interact with Yoda and iRODS servers
 - [iBridges-GUI](https://github.com/chStaiger/iBridges-Gui) - A graphical user interface for iBridges
+- [iBridges](https://github.com/UtrechtUniversity/iBridges) - Python API and commandline interface to easily interact with Yoda and iRODS servers
 - [LUE](https://github.com/computationalgeography/lue) - Modelling framework for simulating large geographical systems of agents and fields
 - [mice](https://github.com/amices/mice) - Multivariate Imputation by Chained Equations
    * [ggmice](https://github.com/amices/ggmice) - Visualize incomplete and imputed data with the R package `ggmice`
@@ -134,9 +134,9 @@ We encourage other universities to also implement awesome lists for their resear
 
 This awesome list was created by efforts of the [FAIR Data and Software team](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software) of Utrecht University. If you have any question or remark about this list, do not hesitate to contact any of the **current maintainers** via mail:
 
+- [Jelle Treep](mailto:h.j.treep@uu.nl?subject=[GitHub]%20Awesome-UU)
 - [Jonathan de Bruin](mailto:j.debruin1@uu.nl?subject=[GitHub]%20Awesome-UU)
 - [Keven Quach](https://github.com/kequach) (Outside maintainer)
-- [Jelle Treep](mailto:h.j.treep@uu.nl?subject=[GitHub]%20Awesome-UU)
 
  or open an issue on GitHub.
 
