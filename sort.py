@@ -82,7 +82,12 @@ def main():
     "- [What is an Awesome list?](#what-is-an-awesome-list)",
     "- [Initial project collection](#initial-project-collection)",
     "- [Implementing Awesome lists for your university](#implementing-awesome-lists-for-your-university)",
-  "- [Contact](#contact)"]
+  "- [Contact](#contact)",
+    "- [Jonathan de Bruin](mailto:j.debruin1@uu.nl?subject=[GitHub]%20Awesome-UU)",
+    "- [Rodrigo Vargas Honorato](https://github.com/rvhonorato)",
+    "- [Keven Quach](https://github.com/kequach) (Outside maintainer)",
+    "- [Jelle Treep](mailto:h.j.treep@uu.nl?subject=[GitHub]%20Awesome-UU)"
+]
     # print(not any(substring in ''.join(blocks[20]) for substring in ignore_sort_list))
     with open('README.md', 'w+', encoding="latin-1") as sorted_file:
         # Then all of the blocks are sorted individually
