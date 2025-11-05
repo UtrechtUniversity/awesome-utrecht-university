@@ -1,7 +1,10 @@
-# Automatically sorts the README file alphabetically on every push
+# Automatically sorts the README file alphabetically when README.md is modified
 name: sort-readme
 
-on: [push]
+on:
+  push:
+    paths:
+      - 'README.md'
 
 jobs:
   sort:
