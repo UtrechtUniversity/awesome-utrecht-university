@@ -75,6 +75,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [StratPal](https://github.com/MindTheGap-ERC/StratPal) - R package to build modeling pipelines for paleontology
 - [text_explainability](https://git.science.uu.nl/m.j.robeer/text_explainability) - A generic explainability architecture for explaining text machine learning models.
 - [text_sensitivity](https://git.science.uu.nl/m.j.robeer/text_sensitivity) - Extension of text_explainability for sensitivity testing (robustness, fairness).
+- [UU-cellbiology](https://github.com/UU-cellbiology) - 20+ tools for microscopy: 3D volumes rendering/filament tracing, smart microscopy, adaptive optics, super-resolution data analysis and more. 
 
 ### Research data
 
