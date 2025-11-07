@@ -75,7 +75,6 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [StratPal](https://github.com/MindTheGap-ERC/StratPal) - R package to build modeling pipelines for paleontology
 - [text_explainability](https://git.science.uu.nl/m.j.robeer/text_explainability) - A generic explainability architecture for explaining text machine learning models.
 - [text_sensitivity](https://git.science.uu.nl/m.j.robeer/text_sensitivity) - Extension of text_explainability for sensitivity testing (robustness, fairness).
-- [UU-cellbiology](https://github.com/UU-cellbiology) - 20+ tools for microscopy: 3D volumes rendering/filament tracing, smart microscopy, adaptive optics, super-resolution data analysis and more. 
 
 ### Research data
 
@@ -109,6 +108,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 - [CLARIAH](https://github.com/CLARIAH) - CLARIAH offers humanities scholars a Common Lab providing access to large collections of digital resources and innovative tools for research
 - [stan](https://github.com/stan-dev) - Stan is a state-of-the-art platform for statistical modeling and high-performance statistical computation. Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business.
+- [UU-cellbiology](https://github.com/UU-cellbiology) - tools for microscopy and image analysis developed in the labs of Cell Biology, Neurobiology and Biophysics Department. Includes 3D volumes rendering/registration/averaging, filament tracing, smart microscopy, adaptive optics, super-resolution data analysis, image correlation, spots detection and colocalization. 
 
 <!-- END PROJECTS -->
 
