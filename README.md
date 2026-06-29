@@ -90,6 +90,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 - [beamer-uu](https://github.com/joszuijderwijk/beamer-uu) - a Utrecht University template for presentations using LaTeX beamer.
 - [labphew](https://github.com/SanliFaez/labphew) - a minimalist functioning code module and folder structure, built to teach and exercise with computer-controlled measurements using Python.
 - [UU-dissertation-template](https://github.com/UtrechtUniversity/UU-dissertation-template) - a Utrecht University dissertation template for LaTeX.
+- [uu-quarto-presentation-template](https://github.com/UtrechtUniversity/uu-quarto-presentation-template) - a Utrecht University template for presentations using Quarto.
 - [worcs](https://github.com/cjvanlissa/worcs) - Rstudio project template and convenience functions for the Workflow for Open Reproducible Code in Science (WORCS)
 
 ### Education and workshops
